@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.339c5bcb.chunk.css",
-    "main.js": "/static/js/main.a8d28b0a.chunk.js",
-    "main.js.map": "/static/js/main.a8d28b0a.chunk.js.map",
+    "main.js": "/static/js/main.c8d2c121.chunk.js",
+    "main.js.map": "/static/js/main.c8d2c121.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.53937762.js",
     "runtime-main.js.map": "/static/js/runtime-main.53937762.js.map",
     "static/css/2.8950b90d.chunk.css": "/static/css/2.8950b90d.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.8950b90d.chunk.css.map": "/static/css/2.8950b90d.chunk.css.map",
     "static/css/main.339c5bcb.chunk.css.map": "/static/css/main.339c5bcb.chunk.css.map",
     "static/js/2.db534586.chunk.js.LICENSE.txt": "/static/js/2.db534586.chunk.js.LICENSE.txt",
-    "static/media/YuanqianFang_Resume.6764a924.pdf": "/static/media/YuanqianFang_Resume.6764a924.pdf",
+    "static/media/YuanqianFang_Resume.7cb211ea.pdf": "/static/media/YuanqianFang_Resume.7cb211ea.pdf",
     "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
     "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
     "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
@@ -28,6 +28,6 @@
     "static/css/2.8950b90d.chunk.css",
     "static/js/2.db534586.chunk.js",
     "static/css/main.339c5bcb.chunk.css",
-    "static/js/main.a8d28b0a.chunk.js"
+    "static/js/main.c8d2c121.chunk.js"
   ]
 }
